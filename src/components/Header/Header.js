@@ -39,7 +39,7 @@ function Header() {
       </div>
 
       <img
-        src="https://cdn.freebiesupply.com/logos/large/2x/hulu-logo-black-and-white.png"
+        src="https://groundcontrolstudio.com/wp-content/uploads/2013/08/hulu.png"
         alt="hulu"
       />
     </div>
